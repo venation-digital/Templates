@@ -1,5 +1,10 @@
 # Templates
-Templated content for easy usage. All uploaded content is created by myself. I will not upload any content by others then myself without explicit consent and/or reference of original author. 
+This directory contains templated content we decided to make available for the wider public. All content has been created by one our employees and has been authorized to be shared here. We will not upload any contents by others then us without explicit consent and/or reference to the original author. 
+
+Currently available materials:
+- Digital footprint dashjboard
+- Threat Actor basebal card
+
 
 ## 1. Dashboards
 
